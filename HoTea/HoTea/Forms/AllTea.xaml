@@ -1,0 +1,36 @@
+﻿<Window x:Class="lab9.AllTea"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab9"
+        mc:Ignorable="d"
+        Background="#fcf8f4"
+        Title="Редактирование чая" Height="327" Width="337" ShowInTaskbar="False" ResizeMode="CanMinimize" FontFamily="SF Pro Display" FontSize="14">
+    <Grid Margin="0,0,0,-6">
+        <Label Content="Код чая" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontFamily="SF Pro Display" FontSize="14"/>
+        <Label Content="Название" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top" FontFamily="SF Pro Display" FontSize="14"/>
+        <Label Content="Тип чая" HorizontalAlignment="Left" Margin="10,72,0,0" VerticalAlignment="Top" FontFamily="SF Pro Display" FontSize="14"/>
+        <Label Content="Описание" HorizontalAlignment="Left" Margin="10,137,0,0" VerticalAlignment="Top" FontFamily="SF Pro Display" FontSize="14"/>
+        <Label Content="Цена" HorizontalAlignment="Left" Margin="10,178,0,0" VerticalAlignment="Top" FontFamily="SF Pro Display" FontSize="14"/>
+        <Label Content="Остаток" HorizontalAlignment="Left" Margin="10,207,0,0" VerticalAlignment="Top" FontFamily="SF Pro Display" FontSize="14"/>
+        <TextBox x:Name="tbTeaName" HorizontalAlignment="Left" Margin="108,45,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="189" FontFamily="SF Pro Display" FontSize="14"/>
+        <TextBox x:Name="tbDescriptionInTea" HorizontalAlignment="Left" Margin="108,132,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="189" Height="36" FontFamily="SF Pro Display" FontSize="14"/>
+        <TextBox x:Name="tbPriceInTea" HorizontalAlignment="Left" Margin="108,182,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="189" FontFamily="SF Pro Display" FontSize="14"/>
+        <TextBox x:Name="tbRemains" HorizontalAlignment="Left" Margin="108,211,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="189" FontFamily="SF Pro Display" FontSize="14"/>
+        <Label x:Name="labelTeaID" Content="Авто" HorizontalAlignment="Left" Margin="108,12,0,0" VerticalAlignment="Top" Height="25" Width="189" FontFamily="SF Pro Display" FontSize="14"/>
+        <Label Content="Поставщик" HorizontalAlignment="Left" Margin="10,101,0,0" VerticalAlignment="Top" FontFamily="SF Pro Display" FontSize="14" Width="93"/>
+        <ComboBox x:Name="cbTypeTea" HorizontalAlignment="Left" Margin="108,74,0,0" VerticalAlignment="Top" Width="189"/>
+        <ComboBox x:Name="cbSupplier" HorizontalAlignment="Left" Margin="108,103,0,0" VerticalAlignment="Top" Width="189"/>
+        <Image x:Name="btnSaveInTea" Height="42" Margin="10,239,0,0" VerticalAlignment="Top" Source="/Assets/Pics/save.png" RenderTransformOrigin="0.5,0.5" MouseDown="btnSaveInTea_MouseDown" HorizontalAlignment="Left" Width="40">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+    </Grid>
+</Window>

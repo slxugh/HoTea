@@ -1,0 +1,655 @@
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\lab9.exe.config
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\lab9.exe
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\lab9.pdb
+D:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\lab9.csproj.AssemblyReference.cache
+D:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\App.g.cs
+D:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\lab9_MarkupCompile.cache
+D:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\lab9_MarkupCompile.lref
+D:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\lab9.g.resources
+D:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\lab9.Properties.Resources.resources
+D:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\lab9.csproj.GenerateResource.cache
+D:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\lab9.csproj.CoreCompileInputs.cache
+D:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\lab9.exe
+D:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\lab9.pdb
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\lab9.exe.config
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\lab9.exe
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\lab9.pdb
+E:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\lab9.csproj.AssemblyReference.cache
+E:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\App.g.cs
+E:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\lab9_MarkupCompile.cache
+E:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\lab9_MarkupCompile.lref
+E:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\lab9.g.resources
+E:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\lab9.Properties.Resources.resources
+E:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\lab9.csproj.GenerateResource.cache
+E:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\lab9.csproj.CoreCompileInputs.cache
+E:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\lab9.exe
+E:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\lab9.pdb
+E:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\Connect.g.cs
+E:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\Connect.baml
+E:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\Main.g.cs
+E:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\Main.baml
+D:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\Connect.g.cs
+D:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\Main.g.cs
+D:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\Connect.baml
+D:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\Main.baml
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\EntityFramework.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\EntityFramework.SqlServer.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\EntityFramework.xml
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\EntityFramework.SqlServer.xml
+D:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\lab9.csproj.Up2Date
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Azure.Core.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Azure.Identity.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.EntityFramework.SqlServer.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.Identity.Client.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Buffers.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Memory.Data.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Memory.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Numerics.Vectors.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Security.AccessControl.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Security.Permissions.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Security.Principal.Windows.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Text.Encodings.Web.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Text.Json.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.ValueTuple.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Azure.Core.xml
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Azure.Identity.xml
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.EntityFramework.SqlServer.xml
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.Identity.Client.xml
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Buffers.xml
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Memory.xml
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Memory.Data.xml
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Numerics.Vectors.xml
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Security.AccessControl.xml
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Security.Permissions.xml
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Security.Principal.Windows.xml
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Text.Encodings.Web.xml
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Text.Json.xml
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.ValueTuple.xml
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Newtonsoft.Json.dll
+D:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Newtonsoft.Json.xml
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Azure.Core.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Azure.Identity.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\EntityFramework.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\EntityFramework.SqlServer.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.EntityFramework.SqlServer.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.Identity.Client.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Newtonsoft.Json.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Buffers.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.IO.FileSystem.AccessControl.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Memory.Data.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Memory.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Numerics.Vectors.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Security.AccessControl.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Security.Permissions.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Security.Principal.Windows.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Text.Encodings.Web.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Text.Json.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.ValueTuple.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Azure.Core.xml
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Azure.Identity.xml
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\EntityFramework.xml
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\EntityFramework.SqlServer.xml
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.Data.SqlClient.pdb
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.EntityFramework.SqlServer.xml
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.Identity.Client.xml
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\Newtonsoft.Json.xml
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Buffers.xml
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Memory.xml
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Memory.Data.xml
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Numerics.Vectors.xml
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Security.AccessControl.xml
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Security.Permissions.xml
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Security.Principal.Windows.xml
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Text.Encodings.Web.xml
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Text.Json.xml
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\System.ValueTuple.xml
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\lab9.csproj.Up2Date
+E:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\lab9_Content.g.cs
+D:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\Clients.g.cs
+D:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\Clients.baml
+D:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\Order.g.cs
+D:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\Order.baml
+D:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\TypesTea.g.cs
+D:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\TypesTea.baml
+D:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\Supplier.g.cs
+D:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\Supplier.baml
+D:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\AllTea.g.cs
+D:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\AllTea.baml
+D:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\Branches.g.cs
+D:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\Branches.baml
+D:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\Stocks.g.cs
+D:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\Stocks.baml
+D:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\Feedback.g.cs
+D:\3 курс\УП\Задание 9\lab9\lab9\obj\Debug\Feedback.baml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\lab9.exe.config
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\lab9.exe
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\lab9.pdb
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Azure.Core.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Azure.Identity.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\EntityFramework.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.EntityFramework.SqlServer.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Newtonsoft.Json.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Buffers.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Memory.Data.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Memory.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Security.AccessControl.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Security.Permissions.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Text.Json.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.ValueTuple.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Azure.Core.xml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Azure.Identity.xml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\EntityFramework.xml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.EntityFramework.SqlServer.xml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Newtonsoft.Json.xml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Buffers.xml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Memory.xml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Memory.Data.xml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Security.AccessControl.xml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Security.Permissions.xml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Text.Json.xml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.ValueTuple.xml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\obj\Debug\lab9.csproj.AssemblyReference.cache
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\AllTea.g.cs
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Branches.g.cs
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Clients.g.cs
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Connect.g.cs
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Feedback.g.cs
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Main.g.cs
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Order.g.cs
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Stocks.g.cs
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Supplier.g.cs
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\TypesTea.g.cs
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\obj\Debug\App.g.cs
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\obj\Debug\lab9_Content.g.cs
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\obj\Debug\lab9_MarkupCompile.cache
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\obj\Debug\lab9_MarkupCompile.lref
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\AllTea.baml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Branches.baml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Clients.baml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Connect.baml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Feedback.baml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Main.baml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Order.baml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Stocks.baml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Supplier.baml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\TypesTea.baml
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\obj\Debug\lab9.g.resources
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\obj\Debug\lab9.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\obj\Debug\lab9.csproj.Up2Date
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\obj\Debug\lab9.exe
+C:\Users\root\Desktop\Курсовая ТРЗБД\lab9\lab9\obj\Debug\lab9.pdb
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\lab9.exe.config
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\lab9.exe
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\lab9.pdb
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Azure.Core.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Azure.Identity.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\EntityFramework.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\EntityFramework.SqlServer.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.EntityFramework.SqlServer.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.Identity.Client.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Newtonsoft.Json.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Buffers.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.IO.FileSystem.AccessControl.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Memory.Data.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Memory.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Numerics.Vectors.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Security.AccessControl.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Security.Permissions.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Security.Principal.Windows.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Text.Encodings.Web.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Text.Json.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.ValueTuple.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Azure.Core.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Azure.Identity.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\EntityFramework.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\EntityFramework.SqlServer.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.Data.SqlClient.pdb
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.EntityFramework.SqlServer.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.Identity.Client.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Newtonsoft.Json.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Buffers.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Memory.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Memory.Data.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Numerics.Vectors.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Security.AccessControl.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Security.Permissions.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Security.Principal.Windows.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Text.Encodings.Web.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Text.Json.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.ValueTuple.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\lab9.csproj.AssemblyReference.cache
+E:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\AllTea.g.cs
+E:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Branches.g.cs
+E:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Clients.g.cs
+E:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Connect.g.cs
+E:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Feedback.g.cs
+E:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Main.g.cs
+E:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Order.g.cs
+E:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Stocks.g.cs
+E:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Supplier.g.cs
+E:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\TypesTea.g.cs
+E:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\App.g.cs
+E:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\lab9_Content.g.cs
+E:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\lab9_MarkupCompile.cache
+E:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\lab9_MarkupCompile.lref
+E:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\AllTea.baml
+E:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Branches.baml
+E:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Clients.baml
+E:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Connect.baml
+E:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Feedback.baml
+E:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Main.baml
+E:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Order.baml
+E:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Stocks.baml
+E:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Supplier.baml
+E:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\TypesTea.baml
+E:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\lab9.g.resources
+E:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\lab9.csproj.CoreCompileInputs.cache
+E:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\lab9.csproj.Up2Date
+E:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\lab9.exe
+E:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\lab9.pdb
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\lab9.exe.config
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\lab9.exe
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\lab9.pdb
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Azure.Core.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Azure.Identity.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\EntityFramework.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\EntityFramework.SqlServer.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.EntityFramework.SqlServer.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.Identity.Client.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Newtonsoft.Json.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Buffers.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Memory.Data.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Memory.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Numerics.Vectors.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Security.AccessControl.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Security.Permissions.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Security.Principal.Windows.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Text.Encodings.Web.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Text.Json.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.ValueTuple.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Azure.Core.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Azure.Identity.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\EntityFramework.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\EntityFramework.SqlServer.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.EntityFramework.SqlServer.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.Identity.Client.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Newtonsoft.Json.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Buffers.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Memory.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Memory.Data.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Numerics.Vectors.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Security.AccessControl.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Security.Permissions.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Security.Principal.Windows.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Text.Encodings.Web.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Text.Json.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.ValueTuple.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\lab9.csproj.AssemblyReference.cache
+D:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\AllTea.g.cs
+D:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Branches.g.cs
+D:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Clients.g.cs
+D:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Connect.g.cs
+D:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Feedback.g.cs
+D:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Main.g.cs
+D:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Order.g.cs
+D:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Stocks.g.cs
+D:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Supplier.g.cs
+D:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\TypesTea.g.cs
+D:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\App.g.cs
+D:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\lab9_Content.g.cs
+D:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\lab9_MarkupCompile.cache
+D:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\lab9_MarkupCompile.lref
+D:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\AllTea.baml
+D:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Branches.baml
+D:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Clients.baml
+D:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Connect.baml
+D:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Feedback.baml
+D:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Main.baml
+D:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Order.baml
+D:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Stocks.baml
+D:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Supplier.baml
+D:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\TypesTea.baml
+D:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\lab9.g.resources
+D:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\lab9.csproj.CoreCompileInputs.cache
+D:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\lab9.csproj.Up2Date
+D:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\lab9.exe
+D:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\lab9.pdb
+D:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\TeaInOrder.g.cs
+D:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\TeaInOrder.baml
+D:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Employee.g.cs
+D:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Employee.baml
+D:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Report.g.cs
+D:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Report.baml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\EPPlus.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\EPPlus.Interfaces.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\itextsharp.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\EPPlus.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\itextsharp.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Enums.NET.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\ExtendedNumerics.BigDecimal.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\MathNet.Numerics.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\NPOI.Core.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\NPOI.OOXML.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\NPOI.OpenXml4Net.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\SixLabors.Fonts.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\SixLabors.ImageSharp.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Enums.NET.pdb
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Enums.NET.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\ExtendedNumerics.BigDecimal.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\MathNet.Numerics.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\NPOI.Core.pdb
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\NPOI.Core.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\NPOI.OOXML.pdb
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\NPOI.OOXML.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\NPOI.OpenXml4Net.pdb
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\NPOI.OpenXml4Net.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\NPOI.OpenXmlFormats.pdb
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\NPOI.OpenXmlFormats.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\SixLabors.Fonts.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\SixLabors.ImageSharp.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Employee.g.cs
+E:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Report.g.cs
+E:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\TeaInOrder.g.cs
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Enums.NET.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\EPPlus.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\EPPlus.Interfaces.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\ExtendedNumerics.BigDecimal.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\itextsharp.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\MathNet.Numerics.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\NPOI.Core.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\NPOI.OOXML.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\NPOI.OpenXml4Net.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\SixLabors.Fonts.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\SixLabors.ImageSharp.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Security.Cryptography.Pkcs.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Security.Cryptography.Xml.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Enums.NET.pdb
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Enums.NET.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\EPPlus.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\ExtendedNumerics.BigDecimal.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\itextsharp.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\MathNet.Numerics.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\NPOI.Core.pdb
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\NPOI.Core.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\NPOI.OOXML.pdb
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\NPOI.OOXML.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\NPOI.OpenXml4Net.pdb
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\NPOI.OpenXml4Net.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\NPOI.OpenXmlFormats.pdb
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\NPOI.OpenXmlFormats.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\SixLabors.Fonts.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\SixLabors.ImageSharp.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Employee.baml
+E:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\Report.baml
+E:\Курсовая ТРЗБД\lab9\lab9\obj\Debug\Forms\TeaInOrder.baml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\ClosedXML.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\ClosedXML.Parser.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\ExcelNumberFormat.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\RBush.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\ClosedXML.pdb
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\ClosedXML.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\ClosedXML.Parser.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\ExcelNumberFormat.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\RBush.xml
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Xceed.Document.NET.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Xceed.Drawing.NET.dll
+D:\Курсовая ТРЗБД\lab9\lab9\bin\Debug\Xceed.Words.NET.dll

@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище HoTea_ОсиповModelContainer" CdmEntityContainer="HoTea_ОсиповEntities1">
+    <EntitySetMapping Name="Акции">
+      <EntityTypeMapping TypeName="HoTea_ОсиповModel.Акции">
+        <MappingFragment StoreEntitySet="Акции">
+          <ScalarProperty Name="КодАкции" ColumnName="КодАкции" />
+          <ScalarProperty Name="НазваниеАкции" ColumnName="НазваниеАкции" />
+          <ScalarProperty Name="Описание" ColumnName="Описание" />
+          <ScalarProperty Name="ДатаНачала" ColumnName="ДатаНачала" />
+          <ScalarProperty Name="ДатаОкончания" ColumnName="ДатаОкончания" />
+          <ScalarProperty Name="ПроцентСкидки" ColumnName="ПроцентСкидки" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ДеталиЗаказа">
+      <EntityTypeMapping TypeName="HoTea_ОсиповModel.ДеталиЗаказа">
+        <MappingFragment StoreEntitySet="ДеталиЗаказа">
+          <ScalarProperty Name="КодДеталиЗаказа" ColumnName="КодДеталиЗаказа" />
+          <ScalarProperty Name="КодЗаказа" ColumnName="КодЗаказа" />
+          <ScalarProperty Name="КодПродукта" ColumnName="КодПродукта" />
+          <ScalarProperty Name="Количество" ColumnName="Количество" />
+          <ScalarProperty Name="Цена" ColumnName="Цена" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Заказы">
+      <EntityTypeMapping TypeName="HoTea_ОсиповModel.Заказы">
+        <MappingFragment StoreEntitySet="Заказы">
+          <ScalarProperty Name="КодЗаказа" ColumnName="КодЗаказа" />
+          <ScalarProperty Name="КодКлиента" ColumnName="КодКлиента" />
+          <ScalarProperty Name="ДатаЗаказа" ColumnName="ДатаЗаказа" />
+          <ScalarProperty Name="ОбщаяСуммаЗаказа" ColumnName="ОбщаяСуммаЗаказа" />
+          <ScalarProperty Name="Статус" ColumnName="Статус" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Категории">
+      <EntityTypeMapping TypeName="HoTea_ОсиповModel.Категории">
+        <MappingFragment StoreEntitySet="Категории">
+          <ScalarProperty Name="КодКатегории" ColumnName="КодКатегории" />
+          <ScalarProperty Name="НазваниеКатегории" ColumnName="НазваниеКатегории" />
+          <ScalarProperty Name="Описание" ColumnName="Описание" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Клиенты">
+      <EntityTypeMapping TypeName="HoTea_ОсиповModel.Клиенты">
+        <MappingFragment StoreEntitySet="Клиенты">
+          <ScalarProperty Name="КодКлиента" ColumnName="КодКлиента" />
+          <ScalarProperty Name="Имя" ColumnName="Имя" />
+          <ScalarProperty Name="Фамилия" ColumnName="Фамилия" />
+          <ScalarProperty Name="Почта" ColumnName="Почта" />
+          <ScalarProperty Name="Телефон" ColumnName="Телефон" />
+          <ScalarProperty Name="Адрес" ColumnName="Адрес" />
+          <ScalarProperty Name="Город" ColumnName="Город" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Отзывы">
+      <EntityTypeMapping TypeName="HoTea_ОсиповModel.Отзывы">
+        <MappingFragment StoreEntitySet="Отзывы">
+          <ScalarProperty Name="КодОтзыва" ColumnName="КодОтзыва" />
+          <ScalarProperty Name="КодПродукта" ColumnName="КодПродукта" />
+          <ScalarProperty Name="КодКлиента" ColumnName="КодКлиента" />
+          <ScalarProperty Name="Рейтинг" ColumnName="Рейтинг" />
+          <ScalarProperty Name="Комментарий" ColumnName="Комментарий" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Поставщики">
+      <EntityTypeMapping TypeName="HoTea_ОсиповModel.Поставщики">
+        <MappingFragment StoreEntitySet="Поставщики">
+          <ScalarProperty Name="КодПоставщика" ColumnName="КодПоставщика" />
+          <ScalarProperty Name="НазваниеПоставщика" ColumnName="НазваниеПоставщика" />
+          <ScalarProperty Name="КонтактноеИмя" ColumnName="КонтактноеИмя" />
+          <ScalarProperty Name="Телефон" ColumnName="Телефон" />
+          <ScalarProperty Name="Почта" ColumnName="Почта" />
+          <ScalarProperty Name="Адрес" ColumnName="Адрес" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Продукты">
+      <EntityTypeMapping TypeName="HoTea_ОсиповModel.Продукты">
+        <MappingFragment StoreEntitySet="Продукты">
+          <ScalarProperty Name="КодПродукта" ColumnName="КодПродукта" />
+          <ScalarProperty Name="НазваниеПродукта" ColumnName="НазваниеПродукта" />
+          <ScalarProperty Name="Описание" ColumnName="Описание" />
+          <ScalarProperty Name="Цена" ColumnName="Цена" />
+          <ScalarProperty Name="КодКатегории" ColumnName="КодКатегории" />
+          <ScalarProperty Name="Количество" ColumnName="Количество" />
+          <ScalarProperty Name="КодПоставщика" ColumnName="КодПоставщика" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Филиалы">
+      <EntityTypeMapping TypeName="HoTea_ОсиповModel.Филиалы">
+        <MappingFragment StoreEntitySet="Филиалы">
+          <ScalarProperty Name="КодФилиала" ColumnName="КодФилиала" />
+          <ScalarProperty Name="НазваниеФилиала" ColumnName="НазваниеФилиала" />
+          <ScalarProperty Name="Адрес" ColumnName="Адрес" />
+          <ScalarProperty Name="Город" ColumnName="Город" />
+          <ScalarProperty Name="Телефон" ColumnName="Телефон" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

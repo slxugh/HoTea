@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoTea", "lab9\HoTea.csproj", "{AF6344FA-0C4F-4086-A533-8ECF8DCA9A39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{94EC8989-91C7-4E4A-80BF-2256C26E288D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF6344FA-0C4F-4086-A533-8ECF8DCA9A39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF6344FA-0C4F-4086-A533-8ECF8DCA9A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF6344FA-0C4F-4086-A533-8ECF8DCA9A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF6344FA-0C4F-4086-A533-8ECF8DCA9A39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94EC8989-91C7-4E4A-80BF-2256C26E288D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94EC8989-91C7-4E4A-80BF-2256C26E288D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94EC8989-91C7-4E4A-80BF-2256C26E288D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94EC8989-91C7-4E4A-80BF-2256C26E288D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BFD3F25-10F7-43F4-A6C8-7F8653929B19}
+	EndGlobalSection
+EndGlobal

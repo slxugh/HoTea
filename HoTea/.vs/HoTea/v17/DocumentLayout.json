@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0422\u0420\u0417\u0411\u0414\\lab9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6344FA-0C4F-4086-A533-8ECF8DCA9A39}|lab9\\lab9.csproj|d:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0442\u0440\u0437\u0431\u0434\\lab9\\lab9\\forms\\connect.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AF6344FA-0C4F-4086-A533-8ECF8DCA9A39}|lab9\\lab9.csproj|solutionrelative:lab9\\forms\\connect.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6344FA-0C4F-4086-A533-8ECF8DCA9A39}|lab9\\lab9.csproj|D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0422\u0420\u0417\u0411\u0414\\lab9\\lab9\\forms\\report.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AF6344FA-0C4F-4086-A533-8ECF8DCA9A39}|lab9\\lab9.csproj|solutionrelative:lab9\\forms\\report.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6344FA-0C4F-4086-A533-8ECF8DCA9A39}|lab9\\lab9.csproj|D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0422\u0420\u0417\u0411\u0414\\lab9\\lab9\\forms\\order.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6344FA-0C4F-4086-A533-8ECF8DCA9A39}|lab9\\lab9.csproj|solutionrelative:lab9\\forms\\order.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6344FA-0C4F-4086-A533-8ECF8DCA9A39}|lab9\\lab9.csproj|D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0422\u0420\u0417\u0411\u0414\\lab9\\lab9\\forms\\order.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AF6344FA-0C4F-4086-A533-8ECF8DCA9A39}|lab9\\lab9.csproj|solutionrelative:lab9\\forms\\order.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6344FA-0C4F-4086-A533-8ECF8DCA9A39}|lab9\\lab9.csproj|D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0422\u0420\u0417\u0411\u0414\\lab9\\lab9\\forms\\main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6344FA-0C4F-4086-A533-8ECF8DCA9A39}|lab9\\lab9.csproj|solutionrelative:lab9\\forms\\main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6344FA-0C4F-4086-A533-8ECF8DCA9A39}|lab9\\lab9.csproj|D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0422\u0420\u0417\u0411\u0414\\lab9\\lab9\\forms\\main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AF6344FA-0C4F-4086-A533-8ECF8DCA9A39}|lab9\\lab9.csproj|solutionrelative:lab9\\forms\\main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6344FA-0C4F-4086-A533-8ECF8DCA9A39}|lab9\\lab9.csproj|D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0422\u0420\u0417\u0411\u0414\\lab9\\lab9\\forms\\report.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6344FA-0C4F-4086-A533-8ECF8DCA9A39}|lab9\\lab9.csproj|solutionrelative:lab9\\forms\\report.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6344FA-0C4F-4086-A533-8ECF8DCA9A39}|lab9\\lab9.csproj|D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0422\u0420\u0417\u0411\u0414\\lab9\\lab9\\models\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{AF6344FA-0C4F-4086-A533-8ECF8DCA9A39}|lab9\\lab9.csproj|solutionrelative:lab9\\models\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6344FA-0C4F-4086-A533-8ECF8DCA9A39}|lab9\\lab9.csproj|D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0422\u0420\u0417\u0411\u0414\\lab9\\lab9\\models\\viewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6344FA-0C4F-4086-A533-8ECF8DCA9A39}|lab9\\lab9.csproj|solutionrelative:lab9\\models\\viewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6344FA-0C4F-4086-A533-8ECF8DCA9A39}|lab9\\lab9.csproj|D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0422\u0420\u0417\u0411\u0414\\lab9\\lab9\\forms\\employee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AF6344FA-0C4F-4086-A533-8ECF8DCA9A39}|lab9\\lab9.csproj|solutionrelative:lab9\\forms\\employee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6344FA-0C4F-4086-A533-8ECF8DCA9A39}|lab9\\lab9.csproj|D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0422\u0420\u0417\u0411\u0414\\lab9\\lab9\\forms\\connect.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6344FA-0C4F-4086-A533-8ECF8DCA9A39}|lab9\\lab9.csproj|solutionrelative:lab9\\forms\\connect.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 325,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.xaml.cs",
+              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0422\u0420\u0417\u0411\u0414\\lab9\\lab9\\Forms\\Main.xaml.cs",
+              "RelativeDocumentMoniker": "lab9\\Forms\\Main.xaml.cs",
+              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0422\u0420\u0417\u0411\u0414\\lab9\\lab9\\Forms\\Main.xaml.cs",
+              "RelativeToolTip": "lab9\\Forms\\Main.xaml.cs",
+              "ViewState": "AgIAAO8FAAAAAAAAAAAQwPkFAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T14:49:23.127Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Connect.xaml",
+              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0422\u0420\u0417\u0411\u0414\\lab9\\lab9\\Forms\\Connect.xaml",
+              "RelativeDocumentMoniker": "lab9\\Forms\\Connect.xaml",
+              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0422\u0420\u0417\u0411\u0414\\lab9\\lab9\\Forms\\Connect.xaml",
+              "RelativeToolTip": "lab9\\Forms\\Connect.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-17T20:24:10.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Report.xaml.cs",
+              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0422\u0420\u0417\u0411\u0414\\lab9\\lab9\\Forms\\Report.xaml.cs",
+              "RelativeDocumentMoniker": "lab9\\Forms\\Report.xaml.cs",
+              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0422\u0420\u0417\u0411\u0414\\lab9\\lab9\\Forms\\Report.xaml.cs",
+              "RelativeToolTip": "lab9\\Forms\\Report.xaml.cs",
+              "ViewState": "AgIAADoBAAAAAAAAAAAAwEcBAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T22:21:29.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Report.xaml",
+              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0422\u0420\u0417\u0411\u0414\\lab9\\lab9\\Forms\\Report.xaml",
+              "RelativeDocumentMoniker": "lab9\\Forms\\Report.xaml",
+              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0422\u0420\u0417\u0411\u0414\\lab9\\lab9\\Forms\\Report.xaml",
+              "RelativeToolTip": "lab9\\Forms\\Report.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-08T22:10:54.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.xaml",
+              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0422\u0420\u0417\u0411\u0414\\lab9\\lab9\\Forms\\Employee.xaml",
+              "RelativeDocumentMoniker": "lab9\\Forms\\Employee.xaml",
+              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0422\u0420\u0417\u0411\u0414\\lab9\\lab9\\Forms\\Employee.xaml",
+              "RelativeToolTip": "lab9\\Forms\\Employee.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-12T11:32:04.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0422\u0420\u0417\u0411\u0414\\lab9\\lab9\\Models\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "lab9\\Models\\ClassDiagram1.cd",
+              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0422\u0420\u0417\u0411\u0414\\lab9\\lab9\\Models\\ClassDiagram1.cd",
+              "RelativeToolTip": "lab9\\Models\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-06-13T10:51:36.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Main.xaml",
+              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0422\u0420\u0417\u0411\u0414\\lab9\\lab9\\Forms\\Main.xaml",
+              "RelativeDocumentMoniker": "lab9\\Forms\\Main.xaml",
+              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0422\u0420\u0417\u0411\u0414\\lab9\\lab9\\Forms\\Main.xaml",
+              "RelativeToolTip": "lab9\\Forms\\Main.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-08T22:09:39.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.xaml",
+              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0422\u0420\u0417\u0411\u0414\\lab9\\lab9\\Forms\\Order.xaml",
+              "RelativeDocumentMoniker": "lab9\\Forms\\Order.xaml",
+              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0422\u0420\u0417\u0411\u0414\\lab9\\lab9\\Forms\\Order.xaml",
+              "RelativeToolTip": "lab9\\Forms\\Order.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-12T08:17:37.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.xaml.cs",
+              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0422\u0420\u0417\u0411\u0414\\lab9\\lab9\\Forms\\Order.xaml.cs",
+              "RelativeDocumentMoniker": "lab9\\Forms\\Order.xaml.cs",
+              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0422\u0420\u0417\u0411\u0414\\lab9\\lab9\\Forms\\Order.xaml.cs",
+              "RelativeToolTip": "lab9\\Forms\\Order.xaml.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAjwE4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T21:49:14.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ViewModels.cs",
+              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0422\u0420\u0417\u0411\u0414\\lab9\\lab9\\Models\\ViewModels.cs",
+              "RelativeDocumentMoniker": "lab9\\Models\\ViewModels.cs",
+              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0422\u0420\u0417\u0411\u0414\\lab9\\lab9\\Models\\ViewModels.cs",
+              "RelativeToolTip": "lab9\\Models\\ViewModels.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAqwFcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T21:26:40.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Connect.xaml.cs",
+              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0422\u0420\u0417\u0411\u0414\\lab9\\lab9\\Forms\\Connect.xaml.cs",
+              "RelativeDocumentMoniker": "lab9\\Forms\\Connect.xaml.cs",
+              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0422\u0420\u0417\u0411\u0414\\lab9\\lab9\\Forms\\Connect.xaml.cs",
+              "RelativeToolTip": "lab9\\Forms\\Connect.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwDoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T06:14:37.319Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+﻿<Window x:Class="lab9.Main"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="HoTea | Главная" Height="450" Width="1025" FontFamily="SF Pro Display">
+    <DockPanel LastChildFill="True">
+        <!-- Верхняя панель -->
+        <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" Background="#fcf8f3" Height="50">
+            <!-- Можно добавить логотип или заголовок -->
+
+            <!-- Можно добавить логотип или заголовок -->
+
+            <!-- Можно добавить логотип или заголовок -->
+            <TextBlock Text="HoTea " 
+                       VerticalAlignment="Center" 
+                       FontSize="30" 
+                       FontWeight="Bold" 
+                       Margin="10,0" FontFamily="Felix Titling" Height="34" Width="110"/>
+            <!-- Дополнительные кнопки можно разместить справа -->
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                <Image x:Name="btnEmp" Height="27" Width="27" Source="/Assets/Pics/account.png" MouseDown="btnEmp_MouseDown"/>
+                <Image x:Name="btnReport" Height="26" Width="27" Source="/Assets/Pics/dashboard.png" MouseDown="btnReport_MouseDown"/>
+                <Image x:Name="btnExit" Height="26" Width="27" Source="/Assets/Pics/exit.png" MouseDown="btnExit_MouseDown"/>
+            </StackPanel>
+
+        </StackPanel>
+
+        <!-- Нижняя панель (например, для действий и поиска) -->
+        <StackPanel DockPanel.Dock="Bottom" Orientation="Horizontal" Background="#fcf8f3" Height="50">
+
+            <Image x:Name="btnCreate" Source="/Assets/Pics/add.png" Width="36" Height="36" MouseDown="btnCreate_Click" />
+            <Image x:Name="btnDelete" Source="/Assets/Pics/delete.png" Width="35" Height="36" MouseDown="BtnDelete_Click" />
+
+            <Label x:Name="labelItemCount" Content="Количество записей: 0" 
+                   Height="28" Width="245" FontSize="14"/>
+            <Label x:Name="labelInfo" Content="Роль:" 
+                   Height="28
+                   " Width="171" VerticalAlignment="Center" FontSize="14"/>
+            <Label x:Name="labelSearch" Content="Поиск" Height="26" RenderTransformOrigin="0.533,0.154" FontSize="14"/>
+            <TextBox x:Name="tbSearch" Height="18" Width="156" 
+                     TextChanged="tbSearch_TextChanged" FontSize="14"/>
+        </StackPanel>
+
+        <!-- Левая панель навигации -->
+        <ListBox x:Name="lbTables" DockPanel.Dock="Left" Width="150" 
+                 SelectionChanged="lbTables_SelectionChanged"
+                 FontSize="16" FontFamily="SF Pro Display" Background="#fcf8f3"/>
+
+        <!-- Основное содержимое - центральная область -->
+        <Grid>
+            <!-- Здесь выводится таблица (DataGrid) -->
+            <DataGrid x:Name="dgData" FontFamily="SF Pro Display" FontSize="18" 
+                      IsReadOnly="True" SelectionMode="Single" SelectionUnit="FullRow" 
+                      MouseDoubleClick="dgData_MouseDoubleClick" 
+                      Background="#fcf8f4"
+                      BorderBrush="White" ContextMenuOpening="dgData_ContextMenuOpening">
+                <DataGrid.ContextMenu>
+                    <ContextMenu>
+                        <MenuItem Header="Добавить запись" Click="btnCreate_Click"/>
+                        <MenuItem Header="Удалить запись" Click="BtnDelete_Click"/>
+                    </ContextMenu>
+                </DataGrid.ContextMenu>
+            </DataGrid>
+            <Label x:Name="labelStart" Content="Выберете таблицу" HorizontalAlignment="Center" VerticalAlignment="Center" Height="59" Width="309" FontSize="36"/>
+        </Grid>
+    </DockPanel>
+</Window>
